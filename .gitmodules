@@ -1,0 +1,3 @@
+[submodule "d2l-en"]
+	path = d2l-en
+	url = git@github.com:d2l-ai/d2l-en.git
